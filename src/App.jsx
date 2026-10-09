@@ -75,8 +75,7 @@ function App() {
               <h3>TechWise Emporium</h3>
 
               <p>
-                A collaborative e-commerce website created to showcase
-                products, shopping features, and team-based development.
+               A group website created to showcase technology products and shopping features while working together using Git and GitHub.
               </p>
 
                 <p className="project-role">
@@ -160,8 +159,7 @@ function App() {
           <p className="section-label">MY SKILLS</p>
           <h2>Technologies I Work With</h2>
           <p className="section-description">
-            Technologies and tools I have worked with throughout my
-            software development program and projects.
+            Programming languages and tools I have used throughout my software development program and projects.
           </p>
         </div>
 
@@ -224,7 +222,7 @@ function App() {
 
     <p>
       My goal is to continue developing my programming and problem-solving
-      skills while gaining professional experience in software development.
+      skills while gaining experience in software development.
     </p>
 
   </div>
